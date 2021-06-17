@@ -1,6 +1,6 @@
 # FGD Unit Testing
 
-This repository intended for FGD in SWD department of PT. Swadharma Duta Data.  
+This repository is intended for FGD in SWD department of PT. Swadharma Duta Data.  
 Unit testing is a way to test every piece of code in isolation without external dependencies. `C#` and `.Net Framework` is used for this FGD, but the concepts almost the same for every environtment.
 
 ### Prerequisities
